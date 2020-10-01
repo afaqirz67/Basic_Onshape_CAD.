@@ -1,13 +1,41 @@
 # Basic_Onshape_CAD.
- 
-I have all my Basic_Onshape_CAD pictures stored in this file!
 
+## TABLE OF CONTENTS
+* [Base](#Base)
+* [Mount](#Mount)
+* [Bearing](#Bearing)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Axle and Collar](#Axle-and-Collar)
+* [Wheel and Bearing](#Wheel-and-Bearing)
+* [wheel and Axle Assembly](wheel-and-Axle-Assembly)
+* [Caster Assembly](#Caster-Assembly)
+ 
+###I have all my Basic_Onshape_CAD pictures stored in this file!
+
+## Base
  ![Tux, the Linux mascot](images/Base.PNG)
+ 
+ ## Mount
  ![Tux, the Linux mascot](images/Mount.PNG)
+ 
+ ## Bearing
  ![Tux, the Linux mascot](images/Bearing.png)
+ 
+ ## Fork
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Fork.png)
+ 
+ ## Tire
  ![Tux, the Linux mascot](images/Tire.png)
+ 
+ ## Axle and Collar
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Axle%20and%20Collar.png)
+ 
+ ## Wheel and Bearing
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Wheel%20and%20Bearing.png)
+ 
+ ## Sub Assembly
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/wheel%20and%20Axle%20Assembly.png)
+ 
+ ## Caster Assembly
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Caster%20Assembly.png)  
