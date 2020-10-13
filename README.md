@@ -44,4 +44,9 @@
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Caster%20Assembly.png)
  
  # Dorothy's Dowel Pins
+ 
+ ### Shaded
+ ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Dorothy's%20Dowel%20Pins-shaded.png)
+ 
+  ### Hiden Edges Visible
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Dorothy's%20Dowel%20Pins.png)
