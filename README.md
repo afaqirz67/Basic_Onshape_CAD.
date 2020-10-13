@@ -13,10 +13,10 @@
 * [Caster Assembly](#Caster-Assembly)
 
 ### Dorothy's Dowel Pins
-* [Dorothy's Dowel Pins](#Dorothy's-Dowel-Pins)
+* [Dorothy Dowel Pins](#Dorothy-Dowel-Pins)
 * [Dowel Pins](#Dowel-Pins)
 * [Frame Parts](#Frame-Parts)
-* [Dorothy's Dowel Pins Assembly](#Dorothy's-Dowel-Pins-Assembly)
+* [Dorothy Dowel Pins Assembly](#Dorothy-Dowel-Pins-Assembly)
  
 ### Caster
 ## Base
@@ -48,14 +48,14 @@
  ### Description 
  ...
  
- # Dorothy's Dowel Pins
+ # Dorothy Dowel Pins
  ## Dowel Pins
  ![Tux. the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Dowels%20Pins.png)
  
  ## Frame Parts
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Dorothy's%20Dowel%20Pins_part.png)
  
- ## Dorothy's Dowel Pins Assembly
+ ## Dorothy Dowel Pins Assembly
  (Shaded)
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Dorothy's%20Dowel%20Pins-shaded.png)
  
