@@ -56,7 +56,7 @@
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Dorothy's%20Dowel%20Pins_part.png)
  
  ## Dorothy Dowel Pins Assembly
- (Shaded)
+ Shaded
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Dorothy's%20Dowel%20Pins-shaded.png)
  
   Hiden Edges Visible
