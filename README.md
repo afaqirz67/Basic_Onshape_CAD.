@@ -44,7 +44,7 @@ This is the first assignment of the year. Although we were back to cad after a l
  I have the wheel and the bearing here that are mated together. Bearing is another part of the caster which goes between the tire and the fork to prevent them from colliding. Everything in the caster will be held by the tire, after being assembled. I learned how to use the circular feature which is a helpful tool. It does a great job of duplicating a selected feature in a circular pattern that saves a tremendous amount of time. It places the duplicates of the selected feature around a specific place we appoint it to.
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/Wheel%20and%20Bearing.png)
  
- ## [ub Assembly](https://cvilleschools.onshape.com/documents/718d04b302bc9abda1306eae/w/e80a4655ccdcb3553d075d67/e/748012bee68ec1bc5cf413fd)
+ ## [Sub Assembly](https://cvilleschools.onshape.com/documents/718d04b302bc9abda1306eae/w/e80a4655ccdcb3553d075d67/e/748012bee68ec1bc5cf413fd)
  This is how the tire looks after being assembled! It's really awesome and amazing how easy it is to assemble parts in Onshape. It doesn't take more than 3 clicks to assemble two parts. I learned using Fastened mate. It locks the assembled parts tpgether and does not let them move. 
  ![Tux, the Linux mascot](https://github.com/afaqirz67/Basic_Onshape_CAD./blob/master/images/wheel%20and%20Axle%20Assembly.png)
  
